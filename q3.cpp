@@ -16,6 +16,7 @@ int main () {
     cout >>"\n\tValor da compra: R$" << VC << endl;
     cout >>"\n\tQuantidade de parcelas determinadas: " << P << endl;
     cout >>"\n\tValor total por parcela: R$" << Valor_Prestacoes << endl;
+  
   }
 
 }
