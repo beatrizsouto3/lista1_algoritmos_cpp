@@ -3,7 +3,7 @@
 using namespace std;
 
 int main () {
-  float VC, Valor_Prestacoes;
+  float VC, Valor_Parcelas;
   int P;
   cout << "\n\tDigite o valor da compra: R$";
   cin >> VC;
