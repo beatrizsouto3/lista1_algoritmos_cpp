@@ -8,5 +8,4 @@ int main () {
   cin >> A >> M >> D;
   Dias_Totais = (A*365)+(M*30)+D;
   cout <<"\n\tDias totais: " << Dias_Totais <<endl;
-  //bosta
 }
