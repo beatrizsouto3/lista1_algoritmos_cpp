@@ -3,7 +3,7 @@
 using namespace std;
 
 int main (){
-  const flaot PD = 0.28;
+  const float PD = 0.28;
   const float Pi = 0.45;
   float CF, New_Car;
   cout <<"\n\tDigite o custo de fabrica de um carro: R$";
