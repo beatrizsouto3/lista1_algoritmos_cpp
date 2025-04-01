@@ -1,3 +1,6 @@
+/*Leia o tempo de duração de um evento expresso em segundos, converta-o e mostre-o expresso
+em horas, minutos e segundos.*/
+
 #include <iostream>
 
 using namespace std;

@@ -1,3 +1,6 @@
+/*Leia um número inteiro N e um percentual qualquer e escreva qual o valor do percentual
+aplicado ao número.*/
+
 #include <iostream>
 
 using namespace std;

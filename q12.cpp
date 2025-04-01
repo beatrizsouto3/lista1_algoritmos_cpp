@@ -1,3 +1,6 @@
+/*Leia dois números inteiros quaisquer e escreva a soma entre os três sucessores do primeiro e os
+dois antecessores do segundo.*/
+
 #include <iostream>
 
 using namespace std;

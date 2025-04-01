@@ -1,3 +1,7 @@
+/*Calcule e escreva a quantidade de dinheiro gasta por um fumante a partir da leitura das
+informações: número de anos que ele fuma, quantidade de cigarros fumados por dia e preço de
+uma carteira (contendo 10 cigarros). */
+
 #include <iostream>
 
 using namespace std;

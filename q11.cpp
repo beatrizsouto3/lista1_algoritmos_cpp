@@ -1,3 +1,7 @@
+/*. Leia três notas e três pesos, um para cada nota, calcule e escreva a média aritmética e a média
+ponderada das três notas e, nos dois casos, quanto falta para o aluno ser aprovado por média
+(considere a média para aprovação igual a 6,0).*/
+
 #include <iostream>
 
 using namespace std;

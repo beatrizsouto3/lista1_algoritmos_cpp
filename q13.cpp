@@ -1,3 +1,5 @@
+/*. Leia os valores dos lados de um retângulo, calcule e escreva sua área.*/
+
 #include <iostream>
 
 using namespace std;
